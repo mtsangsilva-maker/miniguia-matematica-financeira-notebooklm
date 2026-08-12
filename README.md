@@ -1,4 +1,4 @@
-w# Miniguia de Estudos: Matemática Financeira para Concurso Banco do Brasil
+# Miniguia de Estudos: Matemática Financeira para Concurso Banco do Brasil
 
 ## 1. Contexto e Objetivos
 
