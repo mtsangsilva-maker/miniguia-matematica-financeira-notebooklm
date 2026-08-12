@@ -1,4 +1,4 @@
-# Miniguia de Estudos: Matemática Financeira para Concurso Banco do Brasil
+w# Miniguia de Estudos: Matemática Financeira para Concurso Banco do Brasil
 
 ## 1. Contexto e Objetivos
 
@@ -10,7 +10,7 @@ sinto mais dificuldade, especialmente em:
 - Sistemas de amortização (SAC/PRICE)
 - Cálculos de porcentagem
 
-**Objetivo**:Usar o NotebookLM como ferramenta de estudo ativo para consolidar esses 
+**Objetivo**: Usar o NotebookLM como ferramenta de estudo ativo para consolidar esses 
 conceitos, criar um material de revisão confiável e testar como a IA pode apoiar 
 (e onde falha) no aprendizado desse conteúdo.
 
