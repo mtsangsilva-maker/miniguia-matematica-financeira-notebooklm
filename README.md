@@ -77,6 +77,41 @@ A IA explicou que o resíduo veio do uso de um valor aproximado de prestação (
 - Prompt de acompanhamento (follow-up) funcionou melhor que pedir tudo de uma vez: separar "explicação + exemplo" do "correção do erro" trouxe respostas mais precisas
 
 ## 4. Miniguia de Estudo (Entrega Final)
+
 ### Resumo estruturado
+
+**Juros Compostos**
+- Taxa incide sobre o capital acumulado (juros sobre juros)
+- Crescimento exponencial do montante
+- Fórmula: M = C · (1 + i)^n
+
+**Sistema SAC (Amortização Constante)**
+- Amortização fixa a cada parcela
+- Prestação decrescente (juros caem porque o saldo devedor cai)
+- Fórmula da amortização: A = Valor do Empréstimo / Número de Prestações
+
+**Sistema PRICE (Sistema Francês)**
+- Prestação fixa durante todo o contrato
+- Amortização crescente (começa menor, termina maior)
+- Fórmula: P = C · [i(1+i)^n] / [(1+i)^n − 1]
+
+**Atenção:** cálculos com prestação arredondada podem gerar resíduo no saldo final — 
+sempre prefira a fórmula exata ao invés de aproximações.
+
 ### Glossário
-### Prompts reutilizáveis
+
+| Termo | Definição |
+|---|---|
+| Montante | Valor final de um capital após incidência dos juros |
+| Capital | Valor inicial aplicado ou emprestado |
+| Taxa de juros | Percentual cobrado/rendido sobre o capital em cada período |
+| Amortização | Parte da prestação destinada a reduzir o valor da dívida (principal) |
+| Saldo devedor | Valor da dívida ainda não quitado |
+| SAC | Sistema de Amortização Constante — amortização fixa, prestação decrescente |
+| PRICE | Sistema Francês de Amortização — prestação fixa, amortização crescente |
+
+### Prompts reutilizáveis para revisão
+- "Explique [conceito] com um exemplo prático de concurso bancário"
+- "Crie um quiz de 5 questões de múltipla escolha sobre [tema], no estilo CESGRANRIO"
+- "Compare [conceito A] e [conceito B] com exemplo numérico"
+- "Revise esta minha resolução de [questão] e aponte se há algum erro de cálculo"
