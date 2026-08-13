@@ -65,7 +65,7 @@ A IA explicou que no SAC a amortização é fixa e a prestação é decrescente 
 **Contexto:** prompt de troubleshooting, feito em cima de uma inconsistência identificada na resposta do Prompt 2 (saldo final não zerado devido a arredondamento).
 
 **Resposta obtida (resumo):**
-A IA explicou que o resíduo veio do uso de um valor aproximado de prestação (R$ 37.854,82), e que pequenas diferenças de centavos se acumulam ao longo dos meses por causa do efeito de juros compostos. Recalculou a prestação usando a fórmula exata de anuidades do sistema PRICE, chegando a R$ 37.856,50, e apresentou uma nova tabela onde o saldo final do 4º mês efetivamente zera.
+A IA explicou que o resíduo veio do uso de um valor aproximado de prestação (R$37.854,82), e que pequenas diferenças de centavos se acumulam ao longo dos meses por causa do efeito de juros compostos. Recalculou a prestação usando a fórmula exata de anuidades do sistema PRICE, chegando a R$ 37.856,50, e apresentou uma nova tabela onde o saldo final do 4º mês efetivamente zera.
 
 **O que funcionou bem:**
 - A IA identificou corretamente a causa do erro (arredondamento acumulado), sem inventar uma justificativa errada
